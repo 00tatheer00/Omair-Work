@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+}
+
+.table1-div{
+    position: relative;
+    top: 95px;
+    left: 30px;
+    width: 220px;
+    /* border: 2px solid red; */
+}
+
+#para {
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-weight: 600;
+    position: relative;
+    left: 20px;
+    top: 2px;
+}
+
+.table1 {
+    border-collapse: collapse;
+    margin: 20px;
+    text-align: center;
+    border: 2px solid;
+}
+
+.cell-t1 {
+    border: 1.5px solid;
+    height: 135px;
+    width: 120px;
+    border-bottom: 2px solid;
+}
+
+/* ------ table 2 ------ */
+
+.table2-div{
+    position: absolute;
+    top: 0;
+    left: 500px;
+    font-size: 13px;
+    /* border: 2px solid red; */
+    /* margin: -22px; */
+}
+
+.table2{
+    border-collapse: collapse;
+    /* margin: 20px; */
+    text-align: center;
+    border: 2px solid;
+}
+
+.cell-t2{
+    border: 1.5px solid;
+    height: 135px;
+    width: 50px;
+    border-bottom: 2px solid;
+}
+
+#cell-7{
+    background-color: #8EAADA;
+}
+
+#cell-8-span{
+    font-size: 12px;
+}
+
+#cell-8{
+    background-color: #FFC000;
+}
+
+/* ---- letters ---- */
+
+.letters{
+    /* border: 2px solid green; */
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    row-gap: 120px;
+    font-weight: 600;
+    position: absolute;
+    top: 30px;
+    left: 450px;
+}
+
+/* ----- table 3 ----- */
+
+.table3-div{
+    /* width: 700px; */
+    /* height: 500px; */
+    /* border: 2px solid blue; */
+    position: absolute;
+    top: 385px;
+    left: 800px;
+}
+
+.table3{
+    border-collapse: collapse;
+    margin: 20px;
+    text-align: center;
+    border: 2px solid;
+}
+
+.cell-t3{
+    border: 1.5px solid;
+    height: 14px;
+    width: 60px;
+    border-bottom: 2px solid;
+    font-size: 13px;
+}
+
+.r{
+    font-weight: 600;
+}
+
+#a{
+    width: 150px;
+}

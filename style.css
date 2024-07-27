@@ -103,11 +103,11 @@
     border-collapse: collapse;
     margin: 20px;
     text-align: center;
-    border: 2px solid;
+    border: 1.5px solid;
 }
 
 .cell-t3{
-    border: 1.5px solid;
+    border: 1px solid;
     height: 14px;
     width: 60px;
     border-bottom: 2px solid;

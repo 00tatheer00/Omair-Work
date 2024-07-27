@@ -121,3 +121,63 @@
 #a{
     width: 150px;
 }
+
+/* ----- table 4 ----- */
+
+.table-colors{
+    width: 30%;
+    /* height: 100px; */
+    font-size: 15px;
+    font-weight: 600;
+    position: absolute;
+    top: 200px;
+    left: 900px;
+    /* border: 2px solid orange; */
+}
+
+.table4{
+    border-collapse: collapse;
+}
+
+.cell-t4{
+    width: 60px;
+    height: 20px;
+    border: 1px solid;
+}
+
+.t{
+    width: 240px;
+}
+
+#hi{
+    width: 300px;
+    border: none;
+}
+
+.do{
+    border: 2px solid;
+}
+
+.do1{
+    background-color: #FFC000;
+    border: none;
+    border: 1px solid #FFC000;
+}
+
+.do2{
+    background-color: #8EAADA;
+    border: none;
+    border: 1px solid #8EAADA;
+}
+
+.do3{
+    background-color: #BFBFBD;
+    border: none;
+    border: 1px solid #BFBFBD;
+}
+
+.do4{
+    background-color: #92D14F;
+    border: none;
+    border: 1px solid #92D14F;
+}
